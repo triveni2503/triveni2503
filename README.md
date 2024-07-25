@@ -1,4 +1,4 @@
-Hi There,I'm Triveni Rahate 👋
+** Hi There,I'm Triveni Rahate 👋**
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst enthusiast,continuosly exploring and learning new technologies
 
